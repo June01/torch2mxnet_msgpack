@@ -30,4 +30,4 @@ python build_model_mx.py
 ```
 Attention: If your model structure is not the same with me, please remember to modify it and also ```import_msgpack.py```.
 
-If you have questions with it, please open an issue or ｀｀｀email me｀｀｀(xietingting14@nudt.edu.cn).
+If you have questions with it, please open an issue or ```email me(xietingting14@nudt.edu.cn)```.
